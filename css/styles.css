@@ -67,3 +67,91 @@ p {
 .move-down-lil{
 	margin-top:15px;
 }
+
+
+
+
+body {
+	font-family: "Open Sans";
+  padding-top: 50px;
+}
+
+/* NAVBAR */
+
+.navbar {
+	margin-bottom: 0;
+}
+
+
+.navbar-inner {
+    background:transparent;
+}
+
+.logo img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+.logotext {
+  display: block;
+  padding-top: 20px;
+  color: white;
+  font-size: 40px;
+}
+
+.btn-book {
+    background-color: rgba(0,152,153,.5); /* Transparent */
+    border:  solid white;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 60px;
+}
+
+.containerpic {
+	width: 100vw;
+	height: calc(100vh - 51px);
+  background: url(https://images.unsplash.com/photo-1444072934215-c426fc67ab9c?crop=entropy&fit=crop&fm=jpg&h=775&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1600) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-align: center;
+}
+=======
+/*  */
+.text-center {
+	text-align: center;
+}
+
+.text-equal {
+	text-align: justify;
+}
+
+.height-small {
+	line-height: 0.8;
+}
+
+.height-big {
+	line-height: 1.5;
+}
+
+h4 {
+	font-size: 200%;
+}
+
+p {
+	font-size: 130%;
+}
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+}
+.col-sm-6 {
+    width: 50%;
+}
+
