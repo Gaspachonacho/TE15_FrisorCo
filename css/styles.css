@@ -1,0 +1,69 @@
+/*
+
+My Custom CSS
+=============
+
+Made by: IT-Gymnasiet Kristianstad
+Updated: January 2016
+Notes:	 Built for Frisör & Co.
+
+*/
+
+body {
+	font-family: "Open Sans";
+	padding-top: 50px;
+}
+
+/* NAVBAR */
+
+.navbar {
+	margin-bottom: 0;
+}
+
+/*  */
+.text-center {
+	text-align: center;
+}
+
+.text-equal {
+	text-align: justify;
+}
+
+.height-small {
+	line-height: 0.9;
+}
+
+.height-big {
+	line-height: 1.5;
+}
+
+h4 {
+	font-size: 200%;
+}
+
+p {
+	font-size: 130%;
+}
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+}
+.col-sm-6 {
+    width: 50%;
+}
+.text-small {
+	letter-spacing: -1px;
+	word-spacing: 1px;
+}
+
+.text-padding {
+	padding: 10px 100px 50px 150px;
+}
+.move-down{
+	margin-top:35px;
+}
+
+.move-down-lil{
+	margin-top:15px;
+}
